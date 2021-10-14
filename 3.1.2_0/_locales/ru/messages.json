@@ -1,0 +1,509 @@
+{
+   "add": {
+      "message": "Добавить"
+   },
+   "addInFavorite": {
+      "message": "В избранное"
+   },
+   "addTrackerCode": {
+      "message": "Добавить код"
+   },
+   "add_repository": {
+      "message": "Добавить репозитории"
+   },
+   "advanced_options": {
+      "message": "Расширенные опции"
+   },
+   "autoUpdate": {
+      "message": "Обновлять автоматически"
+   },
+   "backupRestore": {
+      "message": "Архивирование / Восстановление"
+   },
+   "basic": {
+      "message": "Основные"
+   },
+   "cancel": {
+      "message": "Отменить"
+   },
+   "categoryAll": {
+      "message": "Всё"
+   },
+   "categoryAnime": {
+      "message": "Анимэ"
+   },
+   "categoryBooks": {
+      "message": "Книги"
+   },
+   "categoryCartoons": {
+      "message": "Мультфильмы"
+   },
+   "categoryDocumentary": {
+      "message": "Докум."
+   },
+   "categoryFilms": {
+      "message": "Фильмы"
+   },
+   "categoryGames": {
+      "message": "Игры"
+   },
+   "categoryHumor": {
+      "message": "Юмор"
+   },
+   "categoryMusic": {
+      "message": "Музыка"
+   },
+   "categoryOther": {
+      "message": "Прочее"
+   },
+   "categorySerials": {
+      "message": "Сериалы"
+   },
+   "categorySoft": {
+      "message": "ПО"
+   },
+   "categorySport": {
+      "message": "Спорт"
+   },
+   "categoryWordFilter": {
+      "message": "Учитывать категорию при фильтрации слов"
+   },
+   "categoryXXX": {
+      "message": "XXX"
+   },
+   "change": {
+      "message": "Изменить"
+   },
+   "clear": {
+      "message": "Очистить"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "contextMenu": {
+      "message": "Добавить поиск в контекстное меню"
+   },
+   "contextMenuTitle": {
+      "message": "Найти торрент"
+   },
+   "createCode": {
+      "message": "Создать код"
+   },
+   "default": {
+      "message": "По умолчанию"
+   },
+   "defaultProfileName": {
+      "message": "Стандартный"
+   },
+   "defineCategory": {
+      "message": "Автоматически определять категорию раздачи"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "descUrl": {
+      "message": "URL описания"
+   },
+   "disablePopup": {
+      "message": "Не отображать окно поиска при нажатии на иконку расширения"
+   },
+   "doNotSendStatistics": {
+      "message": "Не отправлять статистику"
+   },
+   "edit": {
+      "message": "Редактировать"
+   },
+   "enableProxy": {
+      "message": "Включить поддержку прокси"
+   },
+   "enterTrackerCode": {
+      "message": "Вставьте код трекера"
+   },
+   "exportZip": {
+      "message": "Экспорт в ZIP-файл"
+   },
+   "extDesc": {
+      "message": "Torrents MultiSearch - поиск по нескольким трекерам сразу!"
+   },
+   "extName": {
+      "message": "TMS - Поиск торрентов"
+   },
+   "external_trackers": {
+      "message": "Внешние"
+   },
+   "favoriteSync": {
+      "message": "Синхронизировать список избранного"
+   },
+   "favorites": {
+      "message": "Избранное"
+   },
+   "fetchMeta": {
+      "message": "Получить информацию"
+   },
+   "filter_all": {
+      "message": "Все"
+   },
+   "filter_selected": {
+      "message": "Выбранные"
+   },
+   "filter_withoutList": {
+      "message": "Без списка"
+   },
+   "ggGamesNew": {
+      "message": "Игры: Новые"
+   },
+   "ggGamesTop": {
+      "message": "Игры: Лучшие"
+   },
+   "goToTheWebsite": {
+      "message": "Перейти на сайт"
+   },
+   "hidePeerRow": {
+      "message": "Скрыть столбец \"пиры\" (скачивающие)"
+   },
+   "hideSeedRow": {
+      "message": "Скрыть столбец \"сиды\" (раздающих)"
+   },
+   "history": {
+      "message": "История"
+   },
+   "historyEmpty": {
+      "message": "Здесь пусто, пока..."
+   },
+   "imageUrl": {
+      "message": "URL изображения"
+   },
+   "imdbInCinema": {
+      "message": "IMDB: Сейчас в кино"
+   },
+   "imdbPopular": {
+      "message": "IMDB: Фильмы"
+   },
+   "imdbSeries": {
+      "message": "IMDB: Сериалы"
+   },
+   "importZip": {
+      "message": "Импорт из ZIP-файла"
+   },
+   "invertIcon": {
+      "message": "Инвертировать цвет иконки расширения"
+   },
+   "kitAddTime": {
+      "message": "Время добавления"
+   },
+   "kitAttribute": {
+      "message": "Атрибут"
+   },
+   "kitBaseUrl": {
+      "message": "Основной URL"
+   },
+   "kitCategoryLink": {
+      "message": "Ссылка на категорию"
+   },
+   "kitCategoryName": {
+      "message": "Категория"
+   },
+   "kitConvert": {
+      "message": "Преобразование"
+   },
+   "kitConvertToNumber": {
+      "message": "Преобразовать в число"
+   },
+   "kitConvertedString": {
+      "message": "Преобразованная строка"
+   },
+   "kitDesc": {
+      "message": "Описание"
+   },
+   "kitGetCode": {
+      "message": "Получить код"
+   },
+   "kitIcon": {
+      "message": "Иконка трекера (16x16)"
+   },
+   "kitLogin": {
+      "message": "Авторизация"
+   },
+   "kitLoginFormSelector": {
+      "message": "Селектор формы авторизации"
+   },
+   "kitLoginUrl": {
+      "message": "URL страницы авторизации"
+   },
+   "kitNextPageLink": {
+      "message": "Ссылка на следующую страницу"
+   },
+   "kitOpen": {
+      "message": "Открыть"
+   },
+   "kitPageCharset": {
+      "message": "Кодировка страницы"
+   },
+   "kitPeerCount": {
+      "message": "Количество пиров"
+   },
+   "kitPreview": {
+      "message": "Предпросмотр"
+   },
+   "kitReadCode": {
+      "message": "Прочитать код"
+   },
+   "kitRegexpPattern": {
+      "message": "Regexp шаблон"
+   },
+   "kitReplaceMonth": {
+      "message": "Заменять название месяца на число"
+   },
+   "kitReplaceString": {
+      "message": "заменяется строкой"
+   },
+   "kitReplaceToday": {
+      "message": "Заменять слова сейчас\\сегодня\\вчера на дату"
+   },
+   "kitResult": {
+      "message": "Результат"
+   },
+   "kitRowSelector": {
+      "message": "Селектор строки"
+   },
+   "kitSaveLoad": {
+      "message": "Сохранить / Загрузить"
+   },
+   "kitSearch": {
+      "message": "Поиск"
+   },
+   "kitSearchMethod": {
+      "message": "Method"
+   },
+   "kitSearchQueryEncoding": {
+      "message": "Кодировка поискового запроса"
+   },
+   "kitSearchUrl": {
+      "message": "URL страницы поиска"
+   },
+   "kitSeedCount": {
+      "message": "Количество сидов"
+   },
+   "kitSelect": {
+      "message": "Выбрать"
+   },
+   "kitSelectors": {
+      "message": "Селекторы"
+   },
+   "kitSkipFirstRows": {
+      "message": "Пропустить первые N строк"
+   },
+   "kitSkipLastRows": {
+      "message": "Пропустить последние N строк"
+   },
+   "kitSourceString": {
+      "message": "Исходная строка"
+   },
+   "kitTableRow": {
+      "message": "Строка таблицы"
+   },
+   "kitTorrentDownloadLink": {
+      "message": "Ссылка загрузки"
+   },
+   "kitTorrentLink": {
+      "message": "Ссылка на раздачу"
+   },
+   "kitTorrentSize": {
+      "message": "Размер торрента"
+   },
+   "kitTorrentTitle": {
+      "message": "Название торрента"
+   },
+   "kitTrackerCodeReadError": {
+      "message": "Ошибка разбора кода трекера"
+   },
+   "kitTrackerDesc": {
+      "message": "Описание трекера"
+   },
+   "kitTrackerIsDownloadUrl": {
+      "message": "Url загрузки"
+   },
+   "kitTrackerTitle": {
+      "message": "Название трекера"
+   },
+   "kitTrackerUpdateUrl": {
+      "message": "Url проверки обновления"
+   },
+   "kitTrackerVersion": {
+      "message": "Версия"
+   },
+   "kitUseTemplate": {
+      "message": "Применить шаблон к строке"
+   },
+   "kpFavorites": {
+      "message": "Кинопоиск: Избранное"
+   },
+   "kpFolderId": {
+      "message": "ID категории кинопоиска"
+   },
+   "kpInCinema": {
+      "message": "Сейчас в кино"
+   },
+   "kpPopular": {
+      "message": "Фильмы"
+   },
+   "kpSeries": {
+      "message": "Сериалы"
+   },
+   "loadMore": {
+      "message": "Загрузить ещё"
+   },
+   "login": {
+      "message": "Войти"
+   },
+   "main": {
+      "message": "Главная"
+   },
+   "mainPage": {
+      "message": "Главная страница"
+   },
+   "manageProfile": {
+      "message": "Редактирование списка"
+   },
+   "manageProfiles": {
+      "message": "Управление списками"
+   },
+   "move": {
+      "message": "Переместить"
+   },
+   "newProfile": {
+      "message": "Создать список"
+   },
+   "options": {
+      "message": "Настройки"
+   },
+   "originalPosterName": {
+      "message": "Отображать оригинальные названия"
+   },
+   "originalTitle": {
+      "message": "Оригинальный заголовок"
+   },
+   "peerFilterLabel": {
+      "message": "Пиры"
+   },
+   "quickSearch": {
+      "message": "Быстрый поиск"
+   },
+   "rangeFromPlaceholder": {
+      "message": "от"
+   },
+   "rangeToPlaceholder": {
+      "message": "до"
+   },
+   "readMore": {
+      "message": "Подробнее"
+   },
+   "refresh": {
+      "message": "Обновить"
+   },
+   "removeFromFavorite": {
+      "message": "Удалить из избранного"
+   },
+   "repositories": {
+      "message": "Репозитории"
+   },
+   "requestQueryDescription": {
+      "message": "Получать описание поискового запроса из Google"
+   },
+   "row_date": {
+      "message": "Добавлено"
+   },
+   "row_peers": {
+      "message": "Пиры (скачивающие)"
+   },
+   "row_peers__short": {
+      "message": "П"
+   },
+   "row_quality": {
+      "message": "Качество"
+   },
+   "row_quality__short": {
+      "message": "К"
+   },
+   "row_seeds": {
+      "message": "Сиды (раздающие)"
+   },
+   "row_seeds__short": {
+      "message": "С"
+   },
+   "row_size": {
+      "message": "Размер"
+   },
+   "row_title": {
+      "message": "Название"
+   },
+   "save": {
+      "message": "Сохранить"
+   },
+   "scrollTop": {
+      "message": "Вверх!"
+   },
+   "search": {
+      "message": "Найти"
+   },
+   "searchPlaceholder": {
+      "message": "Введите поисковый запрос"
+   },
+   "seedFilterLabel": {
+      "message": "Сиды"
+   },
+   "setupView": {
+      "message": "Настроить вид"
+   },
+   "showSections": {
+      "message": "Отображать секции:"
+   },
+   "singleResultTable": {
+      "message": "Объединить результаты поиска в одну таблицу"
+   },
+   "sizeFilterLabel": {
+      "message": "Размер ГБ"
+   },
+   "sources": {
+      "message": "Источники"
+   },
+   "syncProfiles": {
+      "message": "Синхронизировать списки трекеров"
+   },
+   "timeFilter1h": {
+      "message": "За час"
+   },
+   "timeFilter1m": {
+      "message": "За месяц"
+   },
+   "timeFilter1w": {
+      "message": "За неделю"
+   },
+   "timeFilter1y": {
+      "message": "За год"
+   },
+   "timeFilter24h": {
+      "message": "За сутки"
+   },
+   "timeFilter72h": {
+      "message": "За 3-е суток"
+   },
+   "timeFilterAll": {
+      "message": "За всё время"
+   },
+   "timeFilterLabel": {
+      "message": "Дата"
+   },
+   "timeFilterRange": {
+      "message": "За период..."
+   },
+   "title": {
+      "message": "Заголовок"
+   },
+   "update": {
+      "message": "Обновить"
+   },
+   "wordFilterLabel": {
+      "message": "Фильтр слов"
+   }
+}

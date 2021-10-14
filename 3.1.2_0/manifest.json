@@ -1,0 +1,37 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "chunk-commons.js", "bg.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "assets/icons/icon_19.png",
+         "38": "assets/icons/icon_38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Torrents MultiSearch"
+   },
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com/analytics.js; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "assets/icons/icon_128.png",
+      "16": "assets/icons/icon_16.png",
+      "48": "assets/icons/icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCi13XoirKoojDbhd8vAZQ4f449wK3OJZEaZ2tdKq1dkz3fUqkj+KEf5dz4qFo6BHkyQGlaxZXw0hC2ttG1U97pCtrh8mAp4+KNyNjyBrW2wI7XXkWrmOiXS6X7bH5TKmisokjkECig7q180YRmXGjhH3ik9vCueevBKHgJtIwGswIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "49",
+   "name": "__MSG_extName__",
+   "omnibox": {
+      "keyword": "tms"
+   },
+   "optional_permissions": [ "tabs" ],
+   "options_page": "index.html#/options",
+   "permissions": [ "storage", "contextMenus", "unlimitedStorage", "http://*/*", "https://*/*" ],
+   "sandbox": {
+      "pages": [ "sandbox.html" ]
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.2"
+}
